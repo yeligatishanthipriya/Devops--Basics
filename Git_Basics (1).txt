@@ -9,3 +9,14 @@ Git is used as a version control system to store code and able to help developer
 3)Download Git (This tool used to communicate with Github via the commands..)
 git config --global user.name "username"
 git config --global user.email "email_Address"
+
+
+
+
+git init
+git add .
+git commit -m "msg"
+git remote add orgin repositariesurl
+git push -u orgin master
+
+if required need to check git status command is used
