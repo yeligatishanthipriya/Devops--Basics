@@ -1,0 +1,11 @@
+Git & Github Basics:
+----------------------
+Git is used as a version control system to store code and able to help developers to collaborate each other..
+
+(Github is a central storage place to store code..)
+
+1)Account Creation..(https://github.com/join) { https://github.com/yeligatishanthipriya)
+2)Created a repository to store our code or sample files...
+3)Download Git (This tool used to communicate with Github via the commands..)
+git config --global user.name "username"
+git config --global user.email "email_Address"

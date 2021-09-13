@@ -1,0 +1,55 @@
+DataTypes:
+----------
+Immutable types: int, string, tuple (Modidfication not possible)
+
+mutable types: list, set, dict  (Modification is possible)
+
+
+Int---> 1, 2,..etc  x = 20
+
+String--->Stores value in Double quotes or single quotes eg: x= "hello world"
+
+tuple --> which stores multiple values in brackets , eg:  x = (1,2,"hi", "apple", 2.5,67)
+
+
+List ---> which stores multiple values in square brackets , eg: x = [1,2,"hi","hello", 22]
+
+To access values of a tuple or list or dictionary we use indexing mechanism..
+indexing starts from 0..
+
+eg:  x = [1,2,3,"hello"]
+
+print(x[3])  # it prints hello..
+x[3] = "world"
+print(x)
+
+we can also use negitive indexing which starts from -1,
+
+Type casting:
+-------------
+>>> x
+(1, 2, 3, 'hi')
+>>> y = list(x)
+>>> y
+[1, 2, 3, 'hi']
+>>> y
+[1, 2, 3, 'hi']
+>>> type(y)
+<class 'list'>
+>>> z = tuple(y)
+>>> z
+(1, 2, 3, 'hi')
+
+
+x = [1,2,7,'Hi',(1,2,3),"abc"]
+                   -2 , -1
+
+
+dictionary:  used to store multiple values in the key value pairs..
+x = {"name":"vijay", "score":10}
+dictionary keys are must be immutable items , and values can be mutable or immutable
+
+sets:  used to store multiple values and uses curly brackets , {}
+
+x = {1,2,3,"hi"}  , it will flush out all duplicate values..
+

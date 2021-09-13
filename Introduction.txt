@@ -1,0 +1,14 @@
+Devops---Road Map:
+----------------------
+1)Python (Programming Language) (Pycharm is a code editor where you write ur code..)https://www.python.org/
+2)GIT (Version control system, scm(source code management..){**GITHUB,BitBucket, Team Collaboration}
+3)Docker container.., Orchestration tool(Kubernets)
+4)CICD (continuos integration, continuous delivery/deplyment){Jenkins-->Automation in the software life cycle}
+5)Test -->Basic testing can be done by testers..
+6)Deploy the app on CloudProviders or baremetal infrastructure.){AWS, GCP, AZURE..)
+7)Configuration and Operations.. (**Ansible, cheff, puppet, saltstack, **terraform )
+7)Monitoring tools  --(Cloudwatch, Nagios, splunk, etc..)
+
+DEVLOPER + OPERATION ----> DEVOPS
+
+(GIT, Docker, Jenkins, AWS, KUBERNETES, CLOUDWATCH,)
